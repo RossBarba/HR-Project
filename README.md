@@ -1,7 +1,7 @@
 # HR-Project
 School project where we discovered inights on whether candidates are likely to join a company after accepting an offer.
 
-Due to liscensing agreements, i am unable to share the dataset which the values are derived from. Below is a summary of the differents variables used in the project:
+Due to liscensing agreements, I am unable to share the dataset which the values are derived from. Below is a summary of the differents variables used in the project:
 
 Variable Name:	                   Variable Description
 
